@@ -80,3 +80,9 @@ async function swapiGet(page) {
 }
 
 swapiGet("1");
+
+
+function selectHandler() {
+    const type = document.getElementById("type").value;
+    
+}
